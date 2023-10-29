@@ -10,6 +10,7 @@ while main == "yes":
     print("3. Data Collector")
     print("4. Terminate Program")
     print("-------------------")
+    print("ok")
 
     #main menu selection
     try:
